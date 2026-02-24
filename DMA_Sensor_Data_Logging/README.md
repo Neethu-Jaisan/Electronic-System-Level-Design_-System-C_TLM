@@ -1,5 +1,5 @@
 # TLM-2.0 Based DMA Sensor Data Logging System  
-### ESLD Term Project
+
 
 ## 1. Introduction
 
